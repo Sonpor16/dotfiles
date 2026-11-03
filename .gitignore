@@ -1,0 +1,6 @@
+# Ignore temporary ML4W and Waybar cache/state files
+**/.cache/
+**/waybar-disabled
+**/*.log
+**/*.bak
+**/*_backup*
